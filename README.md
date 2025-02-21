@@ -1,5 +1,11 @@
 
+
 # Breast Cancer AI Project
+
+![](output.png)
+![](output2.png)
+
+
 
 This project is a machine learning-based application designed to assist medical professionals in diagnosing breast cancer. Using the Wisconsin Breast Cancer Dataset, the application predicts whether a breast mass is benign or malignant based on a set of cellular features. The project consists of a Python-based model training script (`model.py`) and a Streamlit web application (`app.py`).
 
